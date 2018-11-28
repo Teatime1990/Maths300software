@@ -1,0 +1,24 @@
+{
+  "name": "maths300software",
+  "version": "1.0.0",
+  "description": "This is the project for improving maths300 software",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teatime1990/Maths300software.git"
+  },
+  "author": "wei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teatime1990/Maths300software/issues"
+  },
+  "homepage": "https://github.com/Teatime1990/Maths300software#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
